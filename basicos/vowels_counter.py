@@ -5,11 +5,11 @@ Exercício 4: Contar vogais em uma frase
 2. Conte quantas vogais (a, e, i, o, u) existem na frase.
 3. Mostre o total de vogais encontradas.
 """
-
+from funcoes import recebe_frase
 import os
 os.system('cls')
 
-frase = str(input("Digite uma frase qualquer: "))
+frase = recebe_frase()
 
 vogais = "aeiouAEIOU"
 
