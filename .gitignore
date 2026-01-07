@@ -1,1 +1,4 @@
-basicos/__pycache__/funcoes.cpython-314.pyc
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
