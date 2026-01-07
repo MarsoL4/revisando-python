@@ -5,7 +5,7 @@ Exercício 5: Lista de quadrados de números
 2. Crie uma lista contendo o quadrado de cada número de 1 até N (exemplo: se N=4, a lista será [1, 4, 9, 16]).
 3. Imprima a lista final.
 """
-from funcoes import recebe_numero
+from functions import recebe_numero
 import os
 os.system('cls')
 
